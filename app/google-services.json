@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759916890698",
+    "firebase_url": "https://kidslearningmaths.firebaseio.com",
+    "project_id": "kidslearningmaths",
+    "storage_bucket": "kidslearningmaths.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759916890698:android:0eac169977091783",
+        "android_client_info": {
+          "package_name": "com.example.a16022635.kidslearningmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759916890698-bo0v44h1opu7tp1t621mv6v8f7vfjf4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a16022635.kidslearningmaths",
+            "certificate_hash": "dbf368e31c630932bf398e93516a0e8f77204eaf"
+          }
+        },
+        {
+          "client_id": "759916890698-d9u8177n38u4795spsn142q6gadgruma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFe6uw1plQTptTmuRJ9znLFqDoBl18X8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759916890698-d9u8177n38u4795spsn142q6gadgruma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
